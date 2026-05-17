@@ -80,6 +80,9 @@ VISUAL-INTELLIGENCE/
 └── README.md              # Dokumentasi proyek
 ```
 
+### Contoh Output / Preview 
+![alt text](image.png)
+
 ### Catatan Tambahan
 
 <ul>
