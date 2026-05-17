@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+env/
+venv/
+ENV/
+.env
+
+# Streamlit Secrets (SANGAT PENTING agar API Key tidak bocor ke GitHub!)
+.streamlit/secrets.toml
+.streamlit/secret.toml
+
+# IDE / Editor (Opsional, agar settingan lokal VS Code tidak masuk)
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
